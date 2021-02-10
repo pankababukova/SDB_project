@@ -68,6 +68,5 @@ https://www.data.gv.at/katalog/dataset/5c987940-3966-11e2-81c1-0800200c9a66
 - Polygons of the flood hazard zones: INSPIRE SDI Austria: https://geometadatensuche.inspire.gv.at/metadatensuche/srv/ger/catalog.search#/metadata/4384b8f6-d5c8-4b76-9237-05957f51dbc0 
 https://www.data.gv.at/katalog/dataset/ee4a41a5-80ba-4bc8-9166-d1f8af785036 
 - Further work: DEM - accessibility (Open Data Austria)
-- Further work: data about bridges, tunnels, etc.
 - Further work:  traffic data 
 
